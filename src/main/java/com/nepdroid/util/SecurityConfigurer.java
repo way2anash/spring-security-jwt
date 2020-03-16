@@ -1,4 +1,4 @@
-package com.nepdroid;
+package com.nepdroid.util;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;

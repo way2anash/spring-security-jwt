@@ -1,4 +1,4 @@
-package com.nepdroid;
+package com.nepdroid.util;
 
 import java.io.IOException;
 
@@ -16,7 +16,6 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;
 
 import com.nepdroid.services.MyUserDetailsService;
-import com.nepdroid.util.JwtUtil;
 
 @Component
 public class JwtRequestFilter extends OncePerRequestFilter {
