@@ -11,9 +11,9 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.nepdroid.models.AuthenticationRequest;
-import com.nepdroid.models.AuthenticationResponse;
-import com.nepdroid.services.MyUserDetailsService;
+import com.nepdroid.model.AuthenticationRequest;
+import com.nepdroid.model.AuthenticationResponse;
+import com.nepdroid.service.MyUserDetailsService;
 import com.nepdroid.util.JwtUtil;
 
 @RestController

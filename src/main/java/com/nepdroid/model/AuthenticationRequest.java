@@ -1,4 +1,4 @@
-package com.nepdroid.models;
+package com.nepdroid.model;
 
 public class AuthenticationRequest {
 

@@ -1,4 +1,4 @@
-package com.nepdroid.services;
+package com.nepdroid.service;
 
 import java.util.ArrayList;
 
